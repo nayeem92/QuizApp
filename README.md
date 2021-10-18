@@ -1,16 +1,28 @@
-# flutter_mentor_quiz_app_tut
 
-A Quiz App
+# Quiz App
 
-## Getting Started
+Simple quiz app
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Acknowledgements
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ - [Youtube](https://youtu.be/tlFTC5Vznb8)
+ 
+ - [Github](https://github.com/FlutterMentor/flutter_mentor_quiz_app)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+## Deployment
+
+To deploy this project run
+
+https://drive.google.com/file/d/11I_SIv6ZP-LZy4g5srweOX8UsZXxu3Y0/view?usp=sharing
+  
+## Installation
+
+Just Install the APK
+    
+## Demo
+
+Insert gif or link to demo
+
+  
