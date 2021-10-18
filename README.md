@@ -23,6 +23,10 @@ Just Install the APK
     
 ## Demo
 
-Insert gif or link to demo
+
+https://user-images.githubusercontent.com/44882242/137652301-6ce59803-c55f-4a0d-9356-f0dce2dad0a0.mp4
+
+
+
 
   
